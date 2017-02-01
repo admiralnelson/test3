@@ -28,7 +28,7 @@ namespace ConsoleApplication9
             temp = "";
             input = Console.ReadLine();
             string[] data = input.Split(' ');
-            Console.WriteLine(data.Length);
+            //Console.WriteLine(data.Length);
             for(int i=Int32.Parse(data[0]);i<Int32.Parse(data[1]);i++)
             {
                 if (pretty( i.ToString()  , Int32.Parse(data[2])))
