@@ -8,13 +8,13 @@ namespace ConsoleApplication9
 {
     class Program
     {
-        public static bool pretty(string data)
+        public static bool pretty(string data, int divi)
         {
             char[] charArray = data.ToCharArray();
             Array.Reverse(charArray);
             string temp = new string(charArray);
 
-            if (Math.Abs(Int32.Parse(data) - Int32.Parse(temp))%6==0)
+            if (Math.Abs(Int32.Parse(data) - Int32.Parse(temp))%divi==0)
             {
                 return true;
             }
@@ -28,9 +28,10 @@ namespace ConsoleApplication9
             temp = "";
             input = Console.ReadLine();
             string[] data = input.Split(' ');
-            for(int i=0;i<data.Length;i++)
+            Console.WriteLine(data.Length);
+            for(int i=Int32.Parse(data[0]);i<Int32.Parse(data[1]);i++)
             {
-                if (pretty(data[i]))
+                if (pretty( i.ToString()  , Int32.Parse(data[2])))
                 { c++; }
             }
             //Console.WriteLine(args);
