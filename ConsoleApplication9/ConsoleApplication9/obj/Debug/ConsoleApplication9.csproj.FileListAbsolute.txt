@@ -1,0 +1,6 @@
+c:\users\lord berthold\onedrive\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+c:\users\lord berthold\onedrive\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+c:\users\lord berthold\onedrive\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+c:\users\lord berthold\onedrive\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+c:\users\lord berthold\onedrive\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+c:\users\lord berthold\onedrive\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
